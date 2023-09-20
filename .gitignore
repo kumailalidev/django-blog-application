@@ -1,0 +1,11 @@
+# Folders
+.venv/
+Notes/
+__pycache__/
+
+# Files
+.env
+db.sqlite3
+.prettierignore
+TODO.md
+*.pyc
